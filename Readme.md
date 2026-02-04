@@ -1,53 +1,47 @@
-# ML Engineer – 90 Days Execution Plan 🚀
+# 90-Day Machine Learning Engineer Plan
 
-This repository documents my structured 90-day execution plan to become a
-Machine Learning Engineer by building small, real, hands-on projects every day.
+This repository documents my **structured 90-day execution plan** to become a
+**Machine Learning Engineer** by building **small, real, hands-on projects daily**.
 
-The focus is on **consistency, fundamentals, and engineering thinking**
-rather than just theory or notebook-only work.
+The focus is on **consistency**, **strong fundamentals**, and **engineering thinking** —
+not just theory or notebook-only work.
 
 ---
 
 ## 📌 What This Repository Contains
 
-- Daily Python, data handling, machine learning, and deployment projects
+- Daily Python, data handling, machine learning, and deployment work
 - Each day is split into:
-  - **1 hour of concept learning**
-  - **1 hour of hands-on implementation**
-- Clean, incremental progress with daily GitHub commits
+  - **1 hour – concept learning**
+  - **1 hour – hands-on implementation**
+- Clean, incremental progress with **daily GitHub commits**
 
 ---
 
 ## 📂 Repository Structure
 
-Each folder represents one day of work:
-day01_number_operations/ day02_conditions_logic/ day03_... ...
+Each folder represents **one day of work**:
+day01_number_operations/ day02_conditions_logic/ day03_...
 
-Every day usually includes:
+Each day typically includes:
 - Python source code
 - A README explaining:
   - Objective
   - Concepts used
-  - What was built
+  - What was implemented
 
 ---
 
 ## 🎯 Learning Goals
 
 By the end of this 90-day plan, I aim to:
+
 - Build strong Python fundamentals
 - Handle real-world data using Pandas and SQL
 - Implement core machine learning algorithms
 - Think like an ML engineer, not just a notebook user
-- Deploy and structure ML projects professionally
-- Be interview- and placement-ready
-
----
-
-## 🔥 Progress Tracker
-
-- ✅ Day 1: Number Operations Utility (Python fundamentals & functions)
-- ⏳ Day 2: In progress
+- Structure and deploy ML projects professionally
+- Be **interview- and placement-ready**
 
 ---
 
@@ -55,7 +49,7 @@ By the end of this 90-day plan, I aim to:
 
 - Python
 - Pandas, NumPy
-- Scikit-learn
+- scikit-learn
 - SQL
 - FastAPI
 - Docker
@@ -65,8 +59,8 @@ By the end of this 90-day plan, I aim to:
 
 ## 📖 Note
 
-This repository is a learning log.
-Projects are intentionally small and incremental, designed to build
-strong foundations step by step.
+This repository is a **learning log**.  
+Projects are intentionally **small and incremental**, designed to build strong
+foundations step by step.
 
-Consistency > Perfection.
+**Consistency > Perfection**
