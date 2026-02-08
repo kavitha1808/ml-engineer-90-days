@@ -1,4 +1,4 @@
-# Mini Project 6: Pass / Fail Analyzer
+# Mini Project 3: Pass / Fail Analyzer
 
 marks = {
     "Maths": 45,
