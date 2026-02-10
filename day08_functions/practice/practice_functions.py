@@ -1,16 +1,4 @@
-"""
-Day 08 – Functions Practice (Complete)
-
-Topics covered:
-- Functions basics
-- Parameters vs arguments
-- Default arguments
-- Return vs print
-- Local vs global scope
-- Logic traps
-- Real-world style function usage
-"""
-
+# functions
 # --------------------------------------------------
 # 1. Basic function
 # --------------------------------------------------
