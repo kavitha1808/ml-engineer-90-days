@@ -1,5 +1,5 @@
 
-### Student Management System (Mega Project)
+# Student Management System (Mega Project)
 
 ## 📌 Project Overview
 
