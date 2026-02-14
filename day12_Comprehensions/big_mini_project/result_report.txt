@@ -1,0 +1,15 @@
+📘 STUDENT RESULT REPORT (SAFE MODE)
+---------------------------------
+
+Total Valid Students: 2
+Average Marks: 83.50
+
+📊 Student Grades:
+Arun - 78 → Grade B
+Chitra - 89 → Grade B
+
+✅ Passed Students:
+Arun - 78
+Chitra - 89
+
+❌ Failed Students:
