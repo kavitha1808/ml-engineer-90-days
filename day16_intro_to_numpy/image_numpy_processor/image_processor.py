@@ -1,18 +1,18 @@
-# Image Brightness & Threshold Processor
+import numpy as np
+from image_data import image
 
-## Description
-An image-processing mini project using NumPy arrays to manipulate grayscale images.
+print("Original Image:\n", image)
 
-## Features
-- Brightness adjustment
-- Thresholding
-- Pixel intensity analysis
+# Brightness Enhancement
+bright = np.clip(image + 40, 0, 255)
 
-## Technologies
-- Python
-- NumPy
+# Thresholding
+thresholded = np.where(bright > 180, 255, 0)
 
-## Learning Outcome
-- Matrix-based image representation
-- Pixel-level operations
-- Foundation for OpenCV & Computer Vision
+print("\nBrightened Image:\n", bright)
+print("\nThresholded Image:\n", thresholded)
+
+# Image Statistics
+print("\nMax Intensity:", np.max(image))
+print("Min Intensity:", np.min(image))
+print("Average Intensity:", np.mean(image))
