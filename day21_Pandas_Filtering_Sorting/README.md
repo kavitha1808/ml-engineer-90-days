@@ -61,12 +61,15 @@ Advanced mini project:
 
 ## 🚀 Run Any Script
 
+
+```bash
 python src/filtering_examples.py
 python src/sorting_examples.py
 python src/conditional_selection.py
 python src/student_analyzer.py
 python src/credit_risk_system.py
 python src/loan_preprocessing_pipeline.py
+```
 
 ---
 ## 🎯 Learning Outcome
