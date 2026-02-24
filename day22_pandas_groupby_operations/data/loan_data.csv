@@ -1,0 +1,7 @@
+Customer,City,Loan_Amount,Risk
+A,Chennai,500000,High
+B,Chennai,200000,Low
+C,Delhi,300000,Medium
+D,Delhi,400000,High
+E,Mumbai,250000,Low
+F,Mumbai,600000,High
