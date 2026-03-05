@@ -1,0 +1,4 @@
+size_sqft,bedrooms,house_age,Actual Price,Predicted Price
+1500,3,8,260000,255000
+900,2,18,160000,170000
+2000,4,3,350000,340000
