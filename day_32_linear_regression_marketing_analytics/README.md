@@ -57,3 +57,4 @@ Matplotlib
 ## Output
 
 The model generates a regression line showing the relationship between marketing budget and customer spending.
+
