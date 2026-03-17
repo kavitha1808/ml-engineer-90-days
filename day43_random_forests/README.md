@@ -32,7 +32,7 @@ Random Forest can estimate which features are most important for making predicti
 
 ## Project Files
 
-- `random_forest_day43.py` → Main Python script
+- `random_forest.py` → Main Python script
 - `outputs/random_forest_classification_boundary.png` → Classification decision boundary
 - `outputs/random_forest_regression_plot.png` → Regression prediction plot
 - `outputs/random_forest_feature_importance.png` → Feature importance chart
