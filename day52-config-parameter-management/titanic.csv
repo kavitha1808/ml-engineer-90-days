@@ -1,0 +1,51 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,"Allen, Miss. Elizabeth",male,26.5,1,0,A/5 21171,23.22,,S
+2,1,3,"Braund, Mr. Owen",female,32.9,1,0,PC 17599,19.96,C85,C
+3,1,3,"Cumings, Mrs. John",male,28.5,1,1,STON/O2. 3101282,11.15,C123,S
+4,0,3,"Heikkinen, Miss. Laina",male,13.8,0,1,113803,61.6,,S
+5,0,3,"Futrelle, Mrs. Jacques",female,43.9,0,1,373450,117.47,E46,S
+6,0,3,"Moran, Mr. James",male,38.8,0,1,330877,65.92,,S
+7,0,1,"McCarthy, Mr. Timothy",male,,0,0,17463,75.38,G6,S
+8,1,1,"Palsson, Master. Gosta",female,17.2,0,0,349909,19.03,C103,C
+9,0,1,"Johnson, Mrs. Oscar",male,47.2,3,1,347742,45.74,,S
+10,1,2,"Nasser, Mrs. Nicholas",male,10.8,0,0,237736,56.48,D56,S
+11,0,2,"Allen, Miss. Elizabeth",male,36.6,2,0,A/5 21171,0.31,,S
+12,1,2,"Braund, Mr. Owen",male,57.5,1,1,PC 17599,14.18,C85,Q
+13,1,3,"Cumings, Mrs. John",female,16.1,1,1,STON/O2. 3101282,91.86,C123,S
+14,0,2,"Heikkinen, Miss. Laina",female,21.6,0,0,113803,9.27,,S
+15,0,2,"Futrelle, Mrs. Jacques",female,30.3,0,0,373450,82.97,E46,C
+16,0,3,"Moran, Mr. James",female,22.5,0,0,330877,9.21,,Q
+17,0,1,"McCarthy, Mr. Timothy",female,8.8,0,0,17463,14.78,G6,Q
+18,0,3,"Palsson, Master. Gosta",male,29.9,1,0,349909,46.29,C103,C
+19,0,1,"Johnson, Mrs. Oscar",female,,0,0,347742,35.35,,S
+20,0,3,"Nasser, Mrs. Nicholas",male,,0,0,237736,24.99,D56,S
+21,0,3,"Allen, Miss. Elizabeth",female,17.0,1,0,A/5 21171,89.64,,C
+22,0,1,"Braund, Mr. Owen",female,,0,0,PC 17599,11.43,C85,S
+23,0,1,"Cumings, Mrs. John",male,18.8,2,0,STON/O2. 3101282,30.0,C123,S
+24,0,3,"Heikkinen, Miss. Laina",male,24.8,2,0,113803,50.24,,Q
+25,0,3,"Futrelle, Mrs. Jacques",male,39.6,2,1,373450,40.99,E46,S
+26,1,3,"Moran, Mr. James",male,13.0,0,0,330877,20.49,,S
+27,0,3,"McCarthy, Mr. Timothy",female,,0,0,17463,21.09,G6,S
+28,0,1,"Palsson, Master. Gosta",female,46.0,2,0,349909,59.12,C103,S
+29,0,2,"Johnson, Mrs. Oscar",male,8.1,0,1,347742,60.93,,S
+30,0,1,"Nasser, Mrs. Nicholas",male,31.4,3,0,237736,41.74,D56,S
+31,0,3,"Allen, Miss. Elizabeth",male,32.4,3,0,A/5 21171,17.06,,S
+32,0,3,"Braund, Mr. Owen",male,39.2,1,0,PC 17599,21.62,C85,S
+33,0,2,"Cumings, Mrs. John",male,12.9,0,0,STON/O2. 3101282,33.09,C123,C
+34,1,1,"Heikkinen, Miss. Laina",male,11.8,0,0,113803,36.57,,S
+35,1,2,"Futrelle, Mrs. Jacques",female,,1,0,373450,48.93,E46,Q
+36,1,2,"Moran, Mr. James",male,32.9,0,0,330877,28.87,,S
+37,0,3,"McCarthy, Mr. Timothy",male,32.3,0,1,17463,58.26,G6,S
+38,0,3,"Palsson, Master. Gosta",female,33.5,0,2,349909,57.84,C103,C
+39,1,3,"Johnson, Mrs. Oscar",male,,2,0,347742,77.02,,S
+40,0,3,"Nasser, Mrs. Nicholas",female,32.0,1,0,237736,34.12,D56,Q
+41,0,1,"Allen, Miss. Elizabeth",female,32.8,0,1,A/5 21171,42.22,,S
+42,0,3,"Braund, Mr. Owen",male,19.7,0,0,PC 17599,30.5,C85,Q
+43,0,3,"Cumings, Mrs. John",male,53.3,0,0,STON/O2. 3101282,17.23,C123,S
+44,1,3,"Heikkinen, Miss. Laina",male,35.2,3,0,113803,115.8,,C
+45,0,3,"Futrelle, Mrs. Jacques",male,13.5,0,0,373450,70.89,E46,S
+46,1,3,"Moran, Mr. James",male,37.5,0,2,330877,57.07,,Q
+47,0,3,"McCarthy, Mr. Timothy",female,16.3,2,1,17463,33.3,G6,S
+48,0,2,"Palsson, Master. Gosta",male,39.2,1,0,349909,16.01,C103,S
+49,0,1,"Johnson, Mrs. Oscar",male,44.1,1,0,347742,63.74,,Q
+50,0,1,"Nasser, Mrs. Nicholas",male,,1,0,237736,30.11,D56,S
