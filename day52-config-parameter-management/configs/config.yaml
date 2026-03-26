@@ -1,0 +1,22 @@
+data:
+  path: data/titanic.csv
+  target: Survived
+  drop_columns:
+    - PassengerId
+    - Name
+    - Ticket
+    - Cabin
+
+split:
+  test_size: 0.2
+  random_state: 42
+
+model:
+  type: random_forest
+  n_estimators: 100
+  max_depth: 5
+  min_samples_split: 2
+
+output:
+  model_path: models/model.pkl
+  metrics_path: outputs/metrics.txt
