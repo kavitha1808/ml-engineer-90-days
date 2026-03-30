@@ -1,0 +1,6 @@
+Age,Salary,City,Purchased
+25,50000,Chennai,1
+30,60000,Bangalore,0
+35,,Mumbai,1
+40,80000,Chennai,0
+,70000,Bangalore,1
